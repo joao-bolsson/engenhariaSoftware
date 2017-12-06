@@ -2,6 +2,10 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
+/**
+ * @author João Bolsson (jvmarques@inf.ufsm.br)
+ * @since 2017, 05 Dec.
+ */
 class AlunoTest {
 
     /**

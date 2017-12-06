@@ -1,3 +1,7 @@
+/**
+ * @author João Bolsson (jvmarques@inf.ufsm.br)
+ * @since 2017, 05 Dec.
+ */
 public class Aluno {
 
     /**
